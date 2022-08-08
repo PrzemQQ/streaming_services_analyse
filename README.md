@@ -2,6 +2,8 @@
 Project contains data downloaded from Kaggle.com [link to dataset](https://www.kaggle.com/code/anhvangiang/streaming-services-movies-gender-rating-analysis/data).
 Data is saved in .csv format and has 9515 records of movies  from Netflix, Amazon Prime Video, Hulu and Disney+ </br> 
 In this project I analysed dataset to summarize its main characteristics and find patterns between movies and streaming services.
+<br>
+I used Python, Panadas, NumPy, Seaborn, Matplotlib to analyse and visualise data.
 
 
 
