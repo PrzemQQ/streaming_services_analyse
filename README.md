@@ -15,7 +15,7 @@ I used Python, Panadas, NumPy, Seaborn, Matplotlib to analyse and visualise data
 <li>   Discovered medium  negative correletion between Netflix and Prime Video library $p=-0.65$ </li>
 <li>   Disney+ has the longest average length of the title (approx. 20.3 characters) </li>
 <li>   Maximal avabile length of the movie title is on Netflix (103 characters)  </li>
-<li>   The oldest movie is on Prime Video - ***The Patchwork Girl of Oz*** released in 1914  </li>
+<li>   The oldest movie is on Prime Video - *** The Patchwork Girl of Oz *** released in 1914  </li>
 </ul>
 ## 🟡License🟡
 
